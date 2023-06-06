@@ -16,7 +16,7 @@ class TransactionItem extends Component {
       <li className="list">
         <div className="transaction-details">
           <p className="title">{title}</p>
-          <p className="title">{amount}</p>
+          <p className="title">Rs {amount}</p>
           <p className="title">{type2}</p>
           <button
             data-testid="delete"
