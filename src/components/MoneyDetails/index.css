@@ -1,0 +1,35 @@
+.money-detail-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.money-detail-card {
+  padding: 20px;
+  width: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 15px;
+  border: solid #84cc16 1px;
+}
+
+.balance {
+  background-color: #ecfccb;
+}
+
+.img {
+  width: 50px;
+}
+
+.head {
+  color: #7e858e;
+}
+.head2 {
+  color: #475569;
+}
+.income {
+  background-color: #cffafe;
+}
+.expenses {
+  background-color: #ede9fe;
+}

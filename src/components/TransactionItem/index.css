@@ -1,0 +1,24 @@
+.transaction-details {
+  display: flex;
+  align-items: center;
+  /* box-shadow: 2px 2px 2px 2px #d7dfe9; */
+  border: solid #d7dfe9 2px;
+  padding: 20px;
+  width:400px;
+  height: 30px;
+}
+.list {
+  list-style-type: none;
+}
+.delete-img {
+  width: 20px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.title{
+    margin-right:30px
+}
